@@ -1,5 +1,5 @@
 {
-  "name": "coinnetworklist",
+  "name": "@buzhou/coinnetworklist",
   "version": "1.0.0",
   "description": "A list of over 190 cryptocurrency network prefixes used for key generation.",
   "main": "coinNetworkList.js",
